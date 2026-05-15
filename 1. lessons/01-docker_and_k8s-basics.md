@@ -1,7 +1,3 @@
-# STARQUEST - Onboarding 
-This module is designed to take you from conceptual theory to hands-on mastery. You will progress through three distinct stages: 
-**Interactive Learning & Theory** → **Troubleshooting** → **Building**.
-
 # Topic 1: Containerization Fundamentals (Docker & K8s)
 
 ## I. Interactive Learning & Theory
