@@ -10,22 +10,27 @@ STARQUEST is our intensive onboarding program designed to bridge the gap between
 ## 🗓️ Mission Timeline (1 Month)
 We expect you to move through these phases at a steady pace. Quality of understanding beats speed every time.
 
-*   **Week 1-2: The Foundations (Lessons)**
+*   **Week 1-2: Foundation (Lessons)**
     *   Deep dive into Docker, Kubernetes, and core architecture.
     *   Interactive labs and "Broken System" challenges.
-*   **Week 3: Specialization & Unit Specifics (Lesson 03)**
+*   **Week 3: Intermediate & Advance (Lessons)**
     *   Transitioning from general tools to our specific tech stack and internal workflows.
-*   **Week 4: The Capstone (Final Project)**
+*   **Week 4: Final Project (Capstone)**
     *   A full-stack deployment mission that tests everything you have learned.
 
 ---
 
-## 🧠 Learning Objectives
-By the end of your first month, you will be able to:
-1.  **Containerize Anything:** Build optimized Docker images for multi-tier applications.
-2.  **Orchestrate at Scale:** Manage pods, services, and routes within a Kubernetes/OpenShift environment.
-3.  **Debug Under Pressure:** Use CLI and GUI tools (Lens/kubectl) to diagnose and resolve deployment failures.
-4.  **Architect for Resilience:** Understand and implement networking and resource management for microservices.
+## 🧠 Overall Learning Objectives
+These are the "Big Picture" goals. Every lesson you take is a small step toward mastering these four pillars:
+
+1.  **Eliminate "It Works on My Machine" Syndrome:**
+    *   *The Why:* To ensure our deployments are predictable. You learn this so you don't waste days arguing with teammates about environment settings.
+2.  **Achieve Technical Independence:**
+    *   *The Why:* To become a self-sufficient engineer. You learn this so you can navigate our clusters and fix your own environment issues without needing a senior to hold your hand.
+3.  **Bridge Theory and Production Reality:**
+    *   *The Why:* To move beyond "student" knowledge. You learn this so you can handle the high-stakes responsibility of managing systems that real users depend on.
+4.  **Adopt an "SRE" (Site Reliability) Mindset:**
+    *   *The Why:* To build for resilience. You learn to "build, break, and fix" so that when a real system fails, you aren't scammed by the complexity—you know exactly where to look.
 
 ---
 
@@ -40,7 +45,6 @@ Our learning philosophy follows a three-stage loop:
 
 ## 🚦 Getting Started
 *   **The Folder Structure:** All lessons are located in the `/1. lessons` folder.
-*   **Your First Task:** Open `01-docker_and_k8s-basics.md` and begin your foundation training.
-*   **Checkpoints:** After every major section, there is a **Reflection**. These are mandatory and serve as your progress log for your mentor.
+*   **Your First Task:** Open `01-docker.md` and begin your foundation training.
 
 **Welcome aboard. Let us begin.**
